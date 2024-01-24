@@ -32,7 +32,7 @@ If using lab computers to run the code, the code needs to run from inside a virt
    - You can zoom-in or zoom-out by scrolling up or down using the scroll wheel or sliding your fingers away from or towards each other on the trackpad.
 
 ## Contributors
-Aabira Zaman
-Abdul Shaji
-Fathima Manooja
-Nabila Salman
+- Aabira Zaman
+- Abdul Shaji
+- Fathima Manooja
+- Nabila Salman
