@@ -30,3 +30,9 @@ If using lab computers to run the code, the code needs to run from inside a virt
    - You can view it at different angles by right-clicking the model and moving the mouse or sliding on the trackpad.
    - You can drag the model by holding shift and left-clicking the model and moving the mouse or sliding on the trackpad.
    - You can zoom-in or zoom-out by scrolling up or down using the scroll wheel or sliding your fingers away from or towards each other on the trackpad.
+
+## Contributors
+Aabira Zaman
+Abdul Shaji
+Fathima Manooja
+Nabila Salman
