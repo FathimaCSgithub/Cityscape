@@ -10,7 +10,7 @@ vpython, cv2, numpy
 Write pip install vpython==7.6.3 in the terminal.
 
 ## How to run the program
-Type python project.py in the terminal
+Type python project.py in the terminal.
 
 ## How to use the program
 1. The program will ask for a map image to read. We have uploaded some samples to github. sample1.png, sample2.png, sample3.png will work for this. campus.png is the image for the campus map. Images can also be created in MS Paint using the colours corresponding to each element.
